@@ -1,6 +1,7 @@
 # GIT Introducción
 ---
 **1. ¿Qué es git?**
+
 Es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, desde proyectos pequeños hasta muy grandes, con velocidad y eficiencia.
 
 **2. ¿Por qué queremos utilizar git?**
